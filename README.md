@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, my name is Sean 👋
 
-<!--
-**seanskelton56-netizen/seanskelton56-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Graduate.
+![Full-Stack Application](https://img.shields.io/badge/Full--Stack-Application-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)
+Full-Stack developement experience in conjunction with cloud operations.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  Right now im interesting in homing my .net skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Backend
+  - Node.js
+  - .NET
+  
+### Frontend
+  - Vue.js
+
+### Databse
+  -  MySQL.
+  -  ORDBMS
+
+### Cloud
+  - AWS.
+  - Azure.
+
+## Currently
+
+Two things Im working on right now, One is  rewriting my rundementary messaging platform in the C# and deploying it on azure.
+The other is a game specfic tool for league of legends that will allow a user to find people who find play complimentary characters in game.
+
+  
+
