@@ -1,9 +1,7 @@
 ## Hi there, my name is Sean 👋
 
-🎓 Recent Graduate.
-![Full-Stack Application](https://img.shields.io/badge/Full--Stack-Application-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)
-Full-Stack developement experience in conjunction with cloud operations.
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  Right now im interesting in homing my .net skills.
+I am a recent graduate with an expereince in full stack web applications and cloud operations.
+Right now im interesting in homing my .net skills.
 
 ---
 
